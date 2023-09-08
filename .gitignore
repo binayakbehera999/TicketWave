@@ -1,0 +1,5 @@
+/auth/node_modules
+/client/node_modules
+/client/.next
+node_modules
+/tickets/node_modules
